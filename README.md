@@ -1,5 +1,5 @@
 # [Project 1: Heart Failure Prediction](https://github.com/malmuntazarharris/heart-failure-prediction)
-Exploring a dataset of heart disease patients and predicting the mortality based on their comorbities and laboratory test parameters
+Exploring a dataset of heart disease patients and predicting the mortality based on their comorbidities and laboratory test parameters
 
 * Load the dataset and identify the features included in the dataset
 * Explore the dataset and find any trends or correlations with the features
