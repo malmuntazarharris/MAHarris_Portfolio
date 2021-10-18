@@ -11,7 +11,7 @@ Exploring a dataset of heart disease patients and predicting the mortality based
 
 ![correlation heatmap](https://user-images.githubusercontent.com/29358953/137800303-0b6026ec-12bf-4d1c-94fb-a0c7adfbfdf3.png)
 
-# [Project 2: Current World Weather Dashboard: Project Overview](https://github.com/malmuntazarharris/WeatherDashboard)
+# [Project 2: Current World Weather Dashboard](https://github.com/malmuntazarharris/WeatherDashboard)
 * Scraped a list of countries, capitals, continents and their coordinate locations
 * Cleaned the data from the scraped website and replaced incorrect/mispelled values
 * Created classes in Python to represent cities, countries and weather for the city
