@@ -8,7 +8,7 @@ Exploring a dataset of heart disease patients and predicting the mortality based
 * Identify important features and produce models only including these features
 * Create models with only ejection fraction and serum creatinine
 * Compare the performances of all the models created
-* 
+
 ![correlation heatmap](https://user-images.githubusercontent.com/29358953/137800303-0b6026ec-12bf-4d1c-94fb-a0c7adfbfdf3.png)
 
 # [Project 2: Current World Weather Dashboard: Project Overview](https://github.com/malmuntazarharris/WeatherDashboard)
